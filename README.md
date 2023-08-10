@@ -19,9 +19,14 @@ Hello！
 
 ### Tools
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/git-%232C5263.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+### Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-%232C5263.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
+![grafana](https://img.shields.io/badge/grafana-%232C5263.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-%232C5263.svg?style=for-the-badge&logo=Sentry&logoColor=white)
 
 
 ### Container
@@ -50,6 +55,7 @@ Hello！
 
 ### Dtabase
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2300f.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Cache
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
