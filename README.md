@@ -7,4 +7,4 @@
 ## About me
 1. Front-end: JavaScript、Typescript、React
 2. Backend: NodeJS、 Go、Python、PHP
-3. Tools: Kubernetes、 Docker、Harbo、Helm、Jenkins、Ansible
+3. Tools: Kubernetes、 Docker、Harbor、Helm、Jenkins、Ansible
